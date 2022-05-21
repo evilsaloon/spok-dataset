@@ -1,0 +1,502 @@
+city,numbers
+"Hackensack, NJ",2275
+"Jersey City, NJ",260
+"Woodcliff Lake, NJ",1
+"Edgewater, NJ",8
+"Newark, NJ",543
+"Washington, DC",13082
+"New Haven, CT",133
+"Bridgeport, CT",44
+"Stamford, CT",26
+"Danbury, CT",377
+"Norwalk, CT",375
+"Birmingham, AL",3112
+"Tuscaloosa, AL",261
+"Seattle, WA",11369
+"Stockton, CA",129
+"San Antonio, TX",802
+"Los Angeles, CA",5037
+"Gardena, CA",2767
+"Grand Prairie, TX",23617
+"Philadelphia, PA",6850
+"Feasterville Trevose, PA",195
+"Abington, PA",5
+"Fountainville, PA",3
+"Levittown, PA",28
+"Cleveland, OH",8952
+"Independence, OH",30
+"Merrillville, IN",52
+"Crown Point, IN",23
+"Baton Rouge, LA",658
+"Diberville, MS",60
+"Moss Point, MS",3
+"Gulfport, MS",15
+"Fife Lake, MI",3
+"Tustin, MI",2
+"Onekama, MI",153
+"Muskegon, MI",6
+"Boyne City, MI",322
+"Traverse City, MI",2950
+"Ludington, MI",2
+"Cadillac, MI",330
+"Harbor Springs, MI",3
+"Kalkaska, MI",11
+"Newaygo, MI",1
+"Big Rapids, MI",4
+"Frankfort, MI",10
+"Free Soil, MI",1
+"Pontiac, MI",148
+"Pleasant Ridge, MI",6
+"Southfield, MI",156
+"Northville, MI",6
+"Mobile, AL",752
+"Kinston, NC",16
+"Greenville, NC",97
+"Henderson, NC",10
+"Rocky Mount, NC",59
+"Roanoke Rapids, NC",5
+"Wilson, NC",56
+"Tacoma, WA",1055
+"Waco, TX",34
+"Temple, TX",2629
+"Gadsden, AL",2
+"Huntsville, AL",230
+"Decatur, AL",1
+"Fort Wayne, IN",611
+"Lake Geneva, WI",270
+"Port Washington, WI",207
+"West Bend, WI",700
+"Waukesha, WI",885
+"Kalamazoo, MI",261
+"Caledonia, MI",2
+"Three Rivers, MI",79
+"Niles, MI",1
+"Battle Creek, MI",397
+"Benton Harbor, MI",48
+"Allegan, MI",67
+"Paducah, KY",23
+"Houston, TX",18890
+"College Park, MD",1222
+"Bethesda, MD",374
+"Waldorf, MD",150
+"Chevy Chase, MD",2
+"Greenbelt, MD",1
+"Wilmington, DE",121
+"Denver, CO",8204
+"Miami, FL",4767
+"Hialeah, FL",3505
+"Peoria, IL",174
+"Santa Monica, CA",464
+"Compton, CA",2659
+"Lakewood, CA",39
+"Chicago, IL",27730
+"Brookfield, IL",407
+"Detroit, MI",626
+"Dearborn, MI",1
+"Saint Louis, MO",2232
+"Saint Ann, MO",3
+"Auburn, NY",1178
+"Syracuse, NY",1608
+"Geneva, NY",8
+"Utica, NY",287
+"Wichita, KS",29
+"Indianapolis, IN",312
+"Shreveport, LA",43
+"Monroe, LA",310
+"Cocoa, FL",482
+"Akron, OH",3998
+"Canton, OH",600
+"Warren, OH",219
+"Youngstown, OH",278
+"Lisbon, OH",53
+"Salem, OH",31
+"Hartville, OH",9
+"Alliance, OH",141
+"Massillon, OH",2
+"Kent, OH",234
+"Montgomery, AL",267
+"Dothan, AL",242
+"Reidsville, NC",126
+"Winston Salem, NC",8
+"Asheboro, NC",1697
+"Burlington, NC",3
+"Greensboro, NC",20
+"Lake Charles, LA",48
+"Lafayette, LA",271
+"Sulphur, LA",68
+"Gainesville, FL",32
+"Ocala, FL",177
+"Olympia, WA",215
+"Vancouver, WA",1365
+"Longview, WA",2
+"Silverdale, WA",153
+"Corpus Christi, TX",716
+"Beeville, TX",16
+"Victoria, TX",433
+"Alice, TX",50
+"Kingsville, TX",42
+"Port Orange, FL",174
+"Providence, RI",611
+"Omaha, NE",7
+"Atlanta, GA",1383
+"Oklahoma City, OK",1927
+"Orlando, FL",2180
+"San Jose, CA",2892
+"Beaumont, TX",32
+"Port Neches, TX",7
+"La Marque, TX",17
+"Baltimore, MD",5338
+"Towson, MD",3923
+"Elkridge, MD",4369
+"Halethorpe, MD",657
+"Columbia, MD",649
+"Annapolis, MD",20
+"Ellicott City, MD",178
+"Pittsburgh, PA",19645
+"Milwaukee, WI",20878
+"Cudahy, WI",3
+"San Francisco, CA",10748
+"New Riegel, OH",1154
+"Findlay, OH",42
+"Fremont, OH",70
+"Tiffin, OH",1
+"Chattanooga, TN",10
+"Jacksboro, TN",7
+"Bulls Gap, TN",5
+"Johnson City, TN",23
+"Newport, TN",17
+"Issaquah, WA",2
+"Bellevue, WA",2
+"Everett, WA",751
+"Lynchburg, VA",5
+"Tooele, UT",46
+"Logan, UT",5
+"Cedar City, UT",10
+"Lorain, OH",315
+"Eastlake, OH",1643
+"Burton, OH",2
+"North Ridgeville, OH",337
+"Wickliffe, OH",4
+"Fort Smith, AR",1
+"Phoenix, AZ",6628
+"Louisville, KY",746
+"Portland, OR",11015
+"Salem, OR",1
+"New Orleans, LA",4639
+"Kenner, LA",2805
+"Albuquerque, NM",2651
+"Santa Fe, NM",1
+"Fremont, CA",91
+"Oakland, CA",3930
+"Berkeley, CA",3
+"Austin, TX",7168
+"Jarrell, TX",57
+"Cincinnati, OH",3199
+"Middletown, OH",448
+"Brentwood, NY",2185
+"Carle Place, NY",2774
+"Port Washington, NY",412
+"Syosset, NY",2
+"Wantagh, NY",6
+"Plainview, NY",2207
+"Elmont, NY",205
+"Coldwater, MI",11
+"Lansing, MI",23
+"Hillsdale, MI",10
+"Jackson, MI",791
+"Adrian, MI",27
+"Howell, MI",1
+"Albany, NY",2675
+"Schenectady, NY",808
+"Tucson, AZ",3868
+"Roanoke, VA",296
+"Bend, OR",1
+"Eugene, OR",83
+"Medford, OR",295
+"Boynton Beach, FL",106
+"Lake Worth, FL",2
+"Wellington, FL",416
+"Palm Beach, FL",120
+"West Palm Beach, FL",9
+"Boca Raton, FL",1225
+"Norwalk, CA",35
+"Long Beach, CA",113
+"Davenport, IA",248
+"Moosic, PA",126
+"Olyphant, PA",144
+"Mountain Top, PA",7
+"Arlington, VA",102
+"Lucien, OK",3
+"Romeo, MI",1
+"Clinton Township, MI",25
+"Warren, MI",51
+"Flowood, MS",53
+"Meridian, MS",20
+"Hattiesburg, MS",463
+"Binghamton, NY",10
+"Groton, NY",398
+"Madison, WI",18
+"Janesville, WI",466
+"Trenton, NJ",225
+"Hainesport, NJ",218
+"Egg Harbor Township, NJ",11
+"Ventnor City, NJ",10
+"Allentown, PA",170
+"Haverford, PA",2087
+"Wallingford, PA",963
+"Pottstown, PA",7
+"West Chester, PA",232
+"Lafayette Hill, PA",36
+"Reading, PA",2
+"Schwenksville, PA",1
+"Avondale, PA",6
+"Devon, PA",141
+"Minneapolis, MN",7057
+"New Albany, OH",382
+"Columbus, OH",4988
+"Dublin, OH",4
+"Nashville, TN",496
+"Lake Odessa, MI",82
+"Grand Rapids, MI",618
+"Holland, MI",28
+"Greenville, MI",8
+"San Diego, CA",1052
+"Chula Vista, CA",39
+"Pasadena, CA",43
+"El Monte, CA",994
+"La Puente, CA",3
+"River Forest, IL",4778
+"Naperville, IL",8
+"Aurora, IL",1
+"West Babylon, NY",9
+"Yaphank, NY",1
+"Riverhead, NY",443
+"Saint Charles, MO",48
+"San Bruno, CA",23
+"San Mateo, CA",32
+"Mountain View, CA",8
+"Bakersfield, CA",8
+"Adairsville, GA",295
+"Las Vegas, NV",1440
+"Fort Myer, VA",38
+"Alexandria, VA",1260
+"Monroe, NC",85
+"Statesville, NC",109
+"Charlotte, NC",1534
+"Shelby, NC",89
+"Gastonia, NC",68
+"Concord, NC",543
+"Augusta, GA",57
+"Rome, GA",6
+"Santa Rosa, CA",75
+"Bellwood, IL",46
+"Summit Argo, IL",4
+"Glenview, IL",5084
+"Riverdale, IL",10
+"Palos Park, IL",2
+"Steger, IL",4
+"Richton Park, IL",12
+"Anaheim, CA",34
+"Depew, NY",850
+"Buffalo, NY",3364
+"Harrisburg, PA",7
+"Lancaster, PA",927
+"Colorado Springs, CO",214
+"Grapeville, PA",392
+"Washington, PA",1375
+"Clearwater, FL",892
+"New Port Richey, FL",263
+"Woodbridge, NJ",3
+"East Brunswick, NJ",3
+"Toms River, NJ",3
+"Clark, NJ",714
+"Highland Park, NJ",4
+"Matawan, NJ",1
+"Bound Brook, NJ",2
+"Ypsilanti, MI",236
+"Monroe, MI",128
+"Flat Rock, MI",1
+"Ann Arbor, MI",66
+"Garden City, MI",5
+"Trenton, MI",1
+"Heath, OH",51
+"Coshocton, OH",37
+"Lancaster, OH",2
+"Zanesville, OH",111
+"Newport News, VA",49
+"Norfolk, VA",9
+"Victorville, CA",431
+"Oceanside, CA",14
+"San Marcos, CA",4
+"Eaton, IN",6
+"Anderson, IN",24
+"Paragon, IN",1
+"Rossville, IN",58
+"Crawfordsville, IN",36
+"Amboy, IN",644
+"Muncie, IN",1
+"Hampton, GA",32
+"Zebulon, GA",29
+"Vero Beach, FL",135
+"Port Saint Lucie, FL",39
+"Salt Lake City, UT",7010
+"Kaysville, UT",249
+"Provo, UT",339
+"Columbia, SC",1840
+"North Augusta, SC",94
+"Orangeburg, SC",54
+"Sumter, SC",134
+"Ventura, CA",9
+"Thousand Oaks, CA",241
+"Honolulu, HI",4528
+"Wailuku, HI",16
+"Schofield Barracks, HI",1198
+"Lihue, HI",4
+"Papaikou, HI",34
+"Flint, MI",51
+"Marine City, MI",1
+"Marysville, MI",4
+"Attica, MI",1
+"Evansville, IN",144
+"Tampa, FL",4710
+"Zephyrhills, FL",1
+"Johnstown, PA",75
+"Altoona, PA",326
+"Joliet, IL",106
+"Crystal Lake, IL",1
+"Rockford, IL",220
+"Mazon, IL",148
+"Woodstock, IL",8
+"Bradley, IL",117
+"Kansas City, MO",784
+"Arlington, TX",2511
+"Southlake, TX",14
+"Sherman Oaks, CA",378
+"Burbank, CA",5
+"Winnetka, CA",2
+"North Hollywood, CA",331
+"Asheville, NC",1857
+"Forest City, NC",2
+"Hickory, NC",92
+"Morganton, NC",4
+"Waynesville, NC",104
+"Arden, NC",2
+"Fredericksburg, TX",3
+"Jourdanton, TX",6
+"Uvalde, TX",16
+"New Braunfels, TX",75
+"Del Rio, TX",19
+"Splendora, TX",57
+"Pinehurst, TX",6
+"Charleston, SC",252
+"Florence, SC",119
+"Nyack, NY",36
+"Poughkeepsie, NY",36
+"New Windsor, NY",3
+"Spring Valley, NY",27
+"Elgin, IL",3
+"Arlington Heights, IL",31
+"Waukegan, IL",2
+"Mundelein, IL",136
+"Tallahassee, FL",212
+"Pensacola, FL",329
+"Haddonfield, NJ",1111
+"Williamstown, NJ",1
+"Woodstown, NJ",3
+"Camden, NJ",414
+"Berlin, NJ",1
+"Oaklyn, NJ",198
+"Vineland, NJ",3
+"Woodbury Heights, NJ",0
+"Moorestown, NJ",1
+"Bridgeton, NJ",13
+"Collingswood, NJ",7
+"Lexington, KY",5120
+"Groton, CT",2
+"Winter Haven, FL",326
+"Lakeland, FL",844
+"Spartanburg, SC",787
+"Greenville, SC",517
+"Gaffney, SC",4
+"Anderson, SC",16
+"Clinton, SC",2
+"Knoxville, TN",1929
+"Memphis, TN",734
+"Greenville, TX",94
+"Corsicana, TX",2
+"Sherman, TX",166
+"Saint Augustine, FL",27
+"Jacksonville, FL",494
+"Elizabeth, NJ",422
+"Vauxhall, NJ",21
+"Far Hills, NJ",2
+"Claremont, CA",129
+"San Bernardino, CA",74
+"Ontario, CA",153
+"Riverside, CA",626
+"Corona, CA",4
+"Grand Terrace, CA",475
+"Hemet, CA",1
+"Wilmington, NC",2
+"Laurinburg, NC",164
+"Rockingham, NC",3
+"Kansas City, KS",19
+"Yonkers, NY",731
+"White Plains, NY",1354
+"Mount Vernon, NY",7
+"Peekskill, NY",7
+"El Paso, TX",1170
+"Sacramento, CA",7270
+"Rancho Cordova, CA",4
+"New York, NY",22090
+"Brooklyn, NY",7269
+"Little Neck, NY",38
+"Jackson Heights, NY",456
+"Tulsa, OK",3844
+"Raleigh, NC",2845
+"Durham, NC",5
+"Chapel Hill, NC",2194
+"Goldsboro, NC",1131
+"Oshkosh, WI",460
+"Appleton, WI",22
+"Green Bay, WI",73
+"Fond Du Lac, WI",1
+"Walnut Creek, CA",122
+"Antioch, CA",1
+"Dublin, CA",6
+"Spring Hill, TN",1
+"Columbia, TN",29
+"Huntsville, TX",4848
+"Enon, OH",199
+"New Carlisle, OH",1
+"Denton, TX",41
+"Sarasota, FL",63
+"Irvine, CA",5
+"Fort Lauderdale, FL",1838
+"Mcallen, TX",125
+"Edinburg, TX",372
+"Laredo, TX",163
+"Harlingen, TX",314
+"Brownsville, TX",298
+"Irving, TX",325
+"Melissa, TX",1
+"Morristown, NJ",408
+"Paterson, NJ",6
+"Passaic, NJ",308
+"Bryan, TX",748
+"Lake Jackson, TX",116
+"Angleton, TX",2
+"Brenham, TX",5
+"Clute, TX",1
+"Slidell, LA",29
+"Houma, LA",36
+"Hammond, LA",202
+"Covington, LA",97
+"Midland, MI",4
+"Saginaw, MI",148
+"Clare, MI",2
+"West Branch, MI",1
+"Alpena, MI",225
+"Gaylord, MI",36
+"Alma, MI",1
+"Henderson, MI",22

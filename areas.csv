@@ -1,0 +1,630 @@
+zip,city,state,numbers
+07601,Hackensack,NJ,2275
+07310,Jersey City,NJ,260
+07677,Woodcliff Lake,NJ,1
+07020,Edgewater,NJ,8
+07103,Newark,NJ,543
+20005,Washington,DC,9910
+20500,Washington,DC,3172
+06519,New Haven,CT,133
+06608,Bridgeport,CT,44
+06902,Stamford,CT,26
+06811,Danbury,CT,377
+06855,Norwalk,CT,375
+35233,Birmingham,AL,97
+35209,Birmingham,AL,3005
+35405,Tuscaloosa,AL,261
+35222,Birmingham,AL,10
+98104,Seattle,WA,11369
+95205,Stockton,CA,2
+78285,Stockton,CA,127
+78240,San Antonio,TX,802
+90013,Los Angeles,CA,2367
+90247,Gardena,CA,2767
+75050,Grand Prairie,TX,19760
+19106,Philadelphia,PA,6066
+19109,Philadelphia,PA,267
+19115,Philadelphia,PA,47
+19053,Feasterville Trevose,PA,195
+19001,Abington,PA,5
+19143,Philadelphia,PA,470
+18923,Fountainville,PA,3
+19057,Levittown,PA,28
+44114,Cleveland,OH,8596
+44131,Independence,OH,30
+44115,Cleveland,OH,26
+44124,Cleveland,OH,287
+46410,Merrillville,IN,52
+46307,Crown Point,IN,23
+70802,Baton Rouge,LA,648
+70825,Baton Rouge,LA,10
+39540,Diberville,MS,60
+39563,Moss Point,MS,3
+39507,Gulfport,MS,8
+39501,Gulfport,MS,7
+49633,Fife Lake,MI,3
+49688,Tustin,MI,2
+49675,Onekama,MI,153
+49442,Muskegon,MI,6
+49712,Boyne City,MI,322
+49684,Traverse City,MI,2950
+49431,Ludington,MI,2
+49601,Cadillac,MI,330
+49740,Harbor Springs,MI,3
+49646,Kalkaska,MI,11
+49337,Newaygo,MI,1
+49307,Big Rapids,MI,4
+49635,Frankfort,MI,10
+49411,Free Soil,MI,1
+48341,Pontiac,MI,148
+48069,Pleasant Ridge,MI,6
+48076,Southfield,MI,12
+48167,Northville,MI,6
+48075,Southfield,MI,144
+36602,Mobile,AL,748
+36609,Mobile,AL,4
+28501,Kinston,NC,16
+27858,Greenville,NC,97
+27537,Henderson,NC,10
+27803,Rocky Mount,NC,59
+27870,Roanoke Rapids,NC,5
+27896,Wilson,NC,56
+98418,Tacoma,WA,1055
+76707,Waco,TX,34
+76504,Temple,TX,2629
+35903,Gadsden,AL,2
+35816,Huntsville,AL,227
+35603,Decatur,AL,1
+35805,Huntsville,AL,3
+46803,Fort Wayne,IN,611
+53147,Lake Geneva,WI,270
+53074,Port Washington,WI,207
+53095,West Bend,WI,700
+53189,Waukesha,WI,885
+49001,Kalamazoo,MI,261
+49316,Caledonia,MI,2
+49093,Three Rivers,MI,79
+49120,Niles,MI,1
+49017,Battle Creek,MI,397
+49022,Benton Harbor,MI,48
+49010,Allegan,MI,67
+42001,Paducah,KY,23
+77002,Houston,TX,12619
+77010,Houston,TX,297
+77014,Houston,TX,200
+20740,College Park,MD,1222
+20814,Bethesda,MD,374
+20602,Waldorf,MD,150
+20815,Chevy Chase,MD,2
+20770,Greenbelt,MD,1
+19802,Wilmington,DE,121
+80212,Denver,CO,8204
+33129,Miami,FL,69
+33012,Hialeah,FL,3505
+33166,Miami,FL,4155
+33132,Miami,FL,526
+33127,Miami,FL,17
+61606,Peoria,IL,174
+90403,Santa Monica,CA,464
+90222,Compton,CA,2652
+90220,Compton,CA,7
+90025,Los Angeles,CA,4
+90712,Lakewood,CA,39
+60654,Chicago,IL,27692
+60513,Brookfield,IL,407
+48223,Detroit,MI,192
+48208,Detroit,MI,424
+48120,Dearborn,MI,1
+63101,Saint Louis,MO,1
+63155,Saint Louis,MO,1982
+63108,Saint Louis,MO,34
+63124,Saint Louis,MO,215
+63074,Saint Ann,MO,3
+13021,Auburn,NY,1178
+13203,Syracuse,NY,1527
+13204,Syracuse,NY,81
+14456,Geneva,NY,8
+13501,Utica,NY,287
+67202,Wichita,KS,29
+46202,Indianapolis,IN,182
+46205,Indianapolis,IN,104
+46260,Indianapolis,IN,26
+71103,Shreveport,LA,27
+71202,Monroe,LA,310
+71108,Shreveport,LA,16
+32926,Cocoa,FL,482
+90041,Los Angeles,CA,1615
+90006,Los Angeles,CA,321
+90047,Los Angeles,CA,730
+44304,Akron,OH,3998
+44703,Canton,OH,600
+44483,Warren,OH,219
+44506,Youngstown,OH,278
+44432,Lisbon,OH,53
+44460,Salem,OH,31
+44632,Hartville,OH,9
+44601,Alliance,OH,141
+44647,Massillon,OH,2
+44243,Kent,OH,234
+36104,Montgomery,AL,263
+36114,Montgomery,AL,4
+36303,Dothan,AL,242
+27320,Reidsville,NC,126
+27127,Winston Salem,NC,6
+27205,Asheboro,NC,83
+27495,Asheboro,NC,1614
+27217,Burlington,NC,3
+27105,Winston Salem,NC,2
+27410,Greensboro,NC,20
+70629,Lake Charles,LA,47
+70506,Lafayette,LA,271
+70601,Lake Charles,LA,1
+70665,Sulphur,LA,68
+32612,Gainesville,FL,32
+34471,Ocala,FL,177
+98506,Olympia,WA,215
+98663,Vancouver,WA,1365
+98632,Longview,WA,2
+98315,Silverdale,WA,153
+78411,Corpus Christi,TX,652
+78102,Beeville,TX,16
+78402,Corpus Christi,TX,28
+77904,Victoria,TX,433
+78332,Alice,TX,50
+78363,Kingsville,TX,42
+78404,Corpus Christi,TX,36
+32128,Port Orange,FL,173
+32129,Port Orange,FL,1
+02907,Providence,RI,611
+68131,Omaha,NE,7
+30334,Atlanta,GA,639
+30361,Atlanta,GA,82
+73102,Oklahoma City,OK,614
+73129,Oklahoma City,OK,1313
+32803,Orlando,FL,2180
+95110,San Jose,CA,2892
+77702,Beaumont,TX,32
+77651,Port Neches,TX,7
+77568,La Marque,TX,17
+21202,Baltimore,MD,5188
+21204,Towson,MD,3923
+21075,Elkridge,MD,4369
+21216,Baltimore,MD,71
+21227,Halethorpe,MD,657
+21201,Baltimore,MD,79
+21045,Columbia,MD,649
+21401,Annapolis,MD,20
+21043,Ellicott City,MD,178
+15205,Pittsburgh,PA,4000
+15272,Pittsburgh,PA,300
+15234,Pittsburgh,PA,29
+15226,Pittsburgh,PA,2444
+15229,Pittsburgh,PA,3041
+15204,Pittsburgh,PA,9831
+53208,Milwaukee,WI,20878
+53110,Cudahy,WI,3
+94104,San Francisco,CA,2764
+94127,San Francisco,CA,7984
+44853,New Riegel,OH,6
+43601,New Riegel,OH,1148
+45840,Findlay,OH,42
+43420,Fremont,OH,70
+44883,Tiffin,OH,1
+37421,Chattanooga,TN,5
+37757,Jacksboro,TN,7
+37711,Bulls Gap,TN,5
+37604,Johnson City,TN,23
+37821,Newport,TN,17
+37450,Chattanooga,TN,5
+98027,Issaquah,WA,2
+98005,Bellevue,WA,2
+98203,Everett,WA,751
+24501,Lynchburg,VA,5
+84074,Tooele,UT,46
+84341,Logan,UT,5
+84720,Cedar City,UT,10
+44055,Lorain,OH,315
+44095,Eastlake,OH,1643
+44129,Cleveland,OH,43
+44021,Burton,OH,2
+44039,North Ridgeville,OH,337
+44092,Wickliffe,OH,4
+72904,Fort Smith,AR,1
+85014,Phoenix,AZ,6592
+40206,Louisville,KY,746
+97229,Portland,OR,11015
+97303,Salem,OR,1
+70118,New Orleans,LA,204
+70062,Kenner,LA,2805
+70139,New Orleans,LA,4086
+70121,New Orleans,LA,302
+70130,New Orleans,LA,13
+70113,New Orleans,LA,34
+87101,Albuquerque,NM,2651
+87506,Santa Fe,NM,1
+94538,Fremont,CA,91
+94612,Oakland,CA,3930
+94703,Berkeley,CA,3
+78751,Austin,TX,2143
+76537,Jarrell,TX,57
+78712,Austin,TX,4778
+78749,Austin,TX,247
+45241,Cincinnati,OH,373
+45246,Cincinnati,OH,2778
+45203,Cincinnati,OH,2
+45240,Cincinnati,OH,11
+45044,Middletown,OH,448
+45236,Cincinnati,OH,35
+11717,Brentwood,NY,2185
+11514,Carle Place,NY,2774
+11050,Port Washington,NY,412
+11791,Syosset,NY,2
+11793,Wantagh,NY,6
+11803,Plainview,NY,2207
+11003,Elmont,NY,5
+48924,Elmont,NY,200
+49036,Coldwater,MI,11
+48933,Lansing,MI,23
+49242,Hillsdale,MI,10
+49201,Jackson,MI,791
+49221,Adrian,MI,27
+48843,Howell,MI,1
+12205,Albany,NY,1650
+12227,Albany,NY,1025
+12307,Schenectady,NY,678
+12223,Schenectady,NY,130
+85741,Tucson,AZ,3866
+85719,Tucson,AZ,2
+24016,Roanoke,VA,296
+97702,Bend,OR,1
+97408,Eugene,OR,83
+97504,Medford,OR,295
+33426,Boynton Beach,FL,106
+33463,Lake Worth,FL,2
+33414,Wellington,FL,416
+33480,Palm Beach,FL,120
+33405,West Palm Beach,FL,9
+33486,Boca Raton,FL,1225
+90650,Norwalk,CA,35
+90804,Long Beach,CA,113
+52803,Davenport,IA,136
+18515,Davenport,IA,112
+18507,Moosic,PA,126
+18447,Olyphant,PA,144
+18707,Mountain Top,PA,7
+22214,Arlington,VA,102
+73757,Lucien,OK,3
+48065,Romeo,MI,1
+48036,Clinton Township,MI,25
+48093,Warren,MI,51
+39232,Flowood,MS,53
+39307,Meridian,MS,20
+39401,Hattiesburg,MS,463
+85004,Phoenix,AZ,36
+13905,Binghamton,NY,10
+13073,Groton,NY,398
+53715,Madison,WI,18
+53546,Janesville,WI,466
+08619,Trenton,NJ,103
+08036,Hainesport,NJ,218
+08609,Trenton,NJ,122
+08234,Egg Harbor Township,NJ,11
+08406,Ventnor City,NJ,10
+18109,Allentown,PA,170
+19041,Haverford,PA,2087
+19086,Wallingford,PA,963
+19465,Pottstown,PA,7
+19380,West Chester,PA,232
+19444,Lafayette Hill,PA,36
+19601,Reading,PA,2
+19473,Schwenksville,PA,1
+19311,Avondale,PA,6
+19333,Devon,PA,141
+55430,Minneapolis,MN,7057
+43054,New Albany,OH,382
+43222,Columbus,OH,78
+43017,Dublin,OH,4
+43228,Columbus,OH,4910
+37203,Nashville,TN,51
+37238,Nashville,TN,350
+37206,Nashville,TN,95
+48849,Lake Odessa,MI,82
+49507,Grand Rapids,MI,618
+49423,Holland,MI,28
+48838,Greenville,MI,8
+92132,San Diego,CA,631
+91911,Chula Vista,CA,12
+91804,Chula Vista,CA,27
+91101,Pasadena,CA,43
+91732,El Monte,CA,994
+91746,La Puente,CA,3
+60305,River Forest,IL,4778
+60563,Naperville,IL,8
+60506,Aurora,IL,1
+11704,West Babylon,NY,9
+11980,Yaphank,NY,1
+11901,Riverhead,NY,443
+63303,Saint Charles,MO,48
+94066,San Bruno,CA,23
+94402,San Mateo,CA,32
+94040,Mountain View,CA,8
+93305,Bakersfield,CA,8
+30103,Adairsville,GA,295
+89156,Las Vegas,NV,1440
+22211,Fort Myer,VA,38
+22307,Alexandria,VA,1260
+28110,Monroe,NC,85
+28677,Statesville,NC,109
+28217,Charlotte,NC,126
+28202,Charlotte,NC,1408
+28152,Shelby,NC,89
+28052,Gastonia,NC,68
+28027,Concord,NC,543
+30912,Augusta,GA,57
+30165,Rome,GA,6
+95401,Santa Rosa,CA,75
+60104,Bellwood,IL,46
+60501,Summit Argo,IL,4
+60026,Glenview,IL,5084
+60827,Riverdale,IL,10
+60464,Palos Park,IL,2
+60475,Steger,IL,4
+60471,Richton Park,IL,12
+77057,Houston,TX,6
+77098,Houston,TX,65
+77008,Houston,TX,216
+77018,Houston,TX,3790
+77046,Houston,TX,619
+77036,Houston,TX,2
+92899,Houston,TX,1076
+92806,Anaheim,CA,34
+14043,Depew,NY,850
+14217,Buffalo,NY,2910
+14280,Buffalo,NY,80
+14202,Buffalo,NY,374
+17120,Harrisburg,PA,7
+17602,Lancaster,PA,927
+80905,Colorado Springs,CO,214
+15634,Grapeville,PA,392
+15301,Washington,PA,1
+33730,Washington,PA,1374
+33755,Clearwater,FL,817
+33765,Clearwater,FL,75
+34652,New Port Richey,FL,263
+07095,Woodbridge,NJ,3
+08816,East Brunswick,NJ,3
+08757,Toms River,NJ,2
+07799,Toms River,NJ,1
+07066,Clark,NJ,714
+08904,Highland Park,NJ,4
+07747,Matawan,NJ,1
+08805,Bound Brook,NJ,2
+48198,Ypsilanti,MI,236
+48162,Monroe,MI,128
+48134,Flat Rock,MI,1
+48242,Detroit,MI,10
+48104,Ann Arbor,MI,66
+48135,Garden City,MI,5
+48183,Trenton,MI,1
+43056,Heath,OH,51
+43812,Coshocton,OH,37
+43130,Lancaster,OH,2
+43701,Zanesville,OH,111
+23605,Newport News,VA,7
+23519,Newport News,VA,42
+23510,Norfolk,VA,9
+92392,Victorville,CA,431
+92057,Oceanside,CA,14
+92069,San Marcos,CA,4
+47338,Eaton,IN,6
+46017,Anderson,IN,16
+46166,Paragon,IN,1
+46065,Rossville,IN,58
+47933,Crawfordsville,IN,36
+46013,Anderson,IN,8
+46911,Amboy,IN,644
+47302,Muncie,IN,1
+30346,Atlanta,GA,653
+30340,Atlanta,GA,8
+30228,Hampton,GA,32
+30295,Zebulon,GA,29
+30360,Atlanta,GA,1
+32963,Vero Beach,FL,135
+34984,Port Saint Lucie,FL,39
+60646,Chicago,IL,35
+60608,Chicago,IL,3
+84115,Salt Lake City,UT,7010
+84037,Kaysville,UT,249
+84602,Provo,UT,339
+29201,Columbia,SC,1839
+29860,North Augusta,SC,94
+29115,Orangeburg,SC,54
+29212,Columbia,SC,1
+29153,Sumter,SC,134
+93004,Ventura,CA,3
+91360,Thousand Oaks,CA,241
+93003,Ventura,CA,6
+96850,Honolulu,HI,4528
+96793,Wailuku,HI,16
+96857,Schofield Barracks,HI,1198
+96766,Lihue,HI,4
+96781,Papaikou,HI,34
+48503,Flint,MI,51
+48039,Marine City,MI,1
+48040,Marysville,MI,4
+48412,Attica,MI,1
+47725,Evansville,IN,144
+33606,Tampa,FL,4710
+33541,Zephyrhills,FL,1
+15901,Johnstown,PA,75
+16602,Altoona,PA,326
+60433,Joliet,IL,106
+60012,Crystal Lake,IL,1
+61102,Rockford,IL,220
+60444,Mazon,IL,148
+60098,Woodstock,IL,8
+60915,Bradley,IL,117
+64105,Kansas City,MO,1
+64106,Kansas City,MO,773
+64110,Kansas City,MO,10
+76011,Arlington,TX,2121
+76092,Southlake,TX,14
+76015,Arlington,TX,33
+76010,Arlington,TX,357
+91423,Sherman Oaks,CA,378
+91501,Burbank,CA,5
+91306,Winnetka,CA,2
+91602,North Hollywood,CA,331
+28801,Asheville,NC,1857
+28043,Forest City,NC,2
+28602,Hickory,NC,92
+28655,Morganton,NC,4
+28785,Waynesville,NC,28
+28810,Waynesville,NC,76
+28704,Arden,NC,2
+78624,Fredericksburg,TX,3
+78026,Jourdanton,TX,6
+78801,Uvalde,TX,16
+78132,New Braunfels,TX,75
+78840,Del Rio,TX,19
+77372,Splendora,TX,57
+77362,Pinehurst,TX,6
+29425,Charleston,SC,252
+29501,Florence,SC,119
+10960,Nyack,NY,36
+12603,Poughkeepsie,NY,36
+12553,New Windsor,NY,3
+10977,Spring Valley,NY,27
+60123,Elgin,IL,3
+60005,Arlington Heights,IL,31
+60087,Waukegan,IL,2
+60060,Mundelein,IL,136
+32306,Tallahassee,FL,212
+32503,Pensacola,FL,283
+32511,Pensacola,FL,46
+08033,Haddonfield,NJ,1111
+08094,Williamstown,NJ,1
+08098,Woodstown,NJ,3
+08103,Camden,NJ,414
+08009,Berlin,NJ,1
+08107,Oaklyn,NJ,198
+08361,Vineland,NJ,3
+08097,Woodbury Heights,NJ,0
+08057,Moorestown,NJ,1
+08302,Bridgeton,NJ,13
+08108,Collingswood,NJ,7
+92130,San Diego,CA,417
+92145,San Diego,CA,4
+40508,Lexington,KY,3599
+06152,Lexington,KY,1521
+06340,Groton,CT,2
+33880,Winter Haven,FL,326
+33815,Lakeland,FL,844
+29302,Spartanburg,SC,787
+29611,Greenville,SC,486
+29615,Greenville,SC,31
+29341,Gaffney,SC,4
+29621,Anderson,SC,16
+29325,Clinton,SC,2
+37909,Knoxville,TN,239
+37929,Knoxville,TN,1690
+38105,Memphis,TN,337
+38137,Memphis,TN,102
+38135,Memphis,TN,295
+75402,Greenville,TX,94
+75109,Corsicana,TX,2
+75092,Sherman,TX,166
+32086,Saint Augustine,FL,27
+32204,Jacksonville,FL,22
+32216,Jacksonville,FL,1
+32202,Jacksonville,FL,2
+32257,Jacksonville,FL,469
+07202,Elizabeth,NJ,422
+07088,Vauxhall,NJ,21
+07931,Far Hills,NJ,2
+91711,Claremont,CA,129
+92408,San Bernardino,CA,72
+91764,Ontario,CA,153
+92507,Riverside,CA,626
+92882,Corona,CA,4
+92313,Grand Terrace,CA,475
+92545,Hemet,CA,1
+92401,San Bernardino,CA,2
+92504,Riverside,CA,0
+28409,Wilmington,NC,2
+28352,Laurinburg,NC,164
+28379,Rockingham,NC,3
+66118,Kansas City,KS,19
+10703,Yonkers,NY,731
+10606,White Plains,NY,1354
+10552,Mount Vernon,NY,7
+10566,Peekskill,NY,7
+79911,El Paso,TX,1170
+95816,Sacramento,CA,7270
+95670,Rancho Cordova,CA,4
+10010,New York,NY,22035
+11213,Brooklyn,NY,7187
+11211,Brooklyn,NY,82
+10016,New York,NY,48
+10029,New York,NY,7
+11363,Little Neck,NY,38
+11372,Jackson Heights,NY,4
+10041,Jackson Heights,NY,452
+74120,Tulsa,OK,3377
+74146,Tulsa,OK,467
+27617,Raleigh,NC,2718
+27701,Durham,NC,5
+27516,Chapel Hill,NC,1894
+27706,Chapel Hill,NC,95
+27609,Raleigh,NC,83
+27517,Chapel Hill,NC,205
+27607,Raleigh,NC,44
+27531,Goldsboro,NC,1131
+54902,Oshkosh,WI,460
+54911,Appleton,WI,22
+54301,Green Bay,WI,73
+54937,Fond Du Lac,WI,1
+94595,Walnut Creek,CA,122
+94509,Antioch,CA,1
+94568,Dublin,CA,6
+37174,Spring Hill,TN,1
+38401,Columbia,TN,29
+77320,Huntsville,TX,32
+45422,Huntsville,TX,4816
+45323,Enon,OH,199
+45344,New Carlisle,OH,1
+76209,Denton,TX,41
+34237,Sarasota,FL,63
+92614,Irvine,CA,5
+33301,Fort Lauderdale,FL,1238
+33308,Fort Lauderdale,FL,469
+33319,Fort Lauderdale,FL,131
+78503,Mcallen,TX,125
+78539,Edinburg,TX,372
+78043,Laredo,TX,163
+78552,Harlingen,TX,314
+78521,Brownsville,TX,298
+75051,Grand Prairie,TX,3857
+75061,Irving,TX,325
+75454,Melissa,TX,1
+07960,Morristown,NJ,408
+07999,Morristown,NJ,0
+07505,Paterson,NJ,6
+07055,Passaic,NJ,308
+77801,Bryan,TX,748
+77566,Lake Jackson,TX,116
+77515,Angleton,TX,2
+77833,Brenham,TX,5
+77531,Clute,TX,1
+70460,Slidell,LA,29
+70364,Houma,LA,36
+70401,Hammond,LA,202
+70435,Covington,LA,97
+48642,Midland,MI,4
+48602,Saginaw,MI,148
+48617,Clare,MI,2
+48661,West Branch,MI,1
+49707,Alpena,MI,225
+49735,Gaylord,MI,36
+48801,Alma,MI,1
+48841,Henderson,MI,22
