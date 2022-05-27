@@ -4,9 +4,7 @@
 
 spok-dataset is a dataset created to help correlate numbers belonging to Spok with their respective geographical regions.
 
-This dataset was created in the week of May 2, 2022 - May 8, 2022 by checking 23.36 million numbers against Spok's validation CGI. It is meant to accompany an article I'm currently writing.
-
-(If you're seeing this after the article is published, I will update this README with its eventual link.)
+This dataset was created in the week of May 2, 2022 - May 8, 2022 by checking 23.36 million numbers against Spok's validation CGI. It is meant to accompany an article I've published on [HackerNoon](https://hackernoon.com/americas-secret-pager-giant).
 
 I will not update this dataset going forward, and I don't encourage you to either. Spok's servers have already endured enough.
 
